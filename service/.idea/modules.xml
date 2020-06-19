@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api/api.iml" filepath="$PROJECT_DIR$/api/api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mail/mail.iml" filepath="$PROJECT_DIR$/mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/mapper/mapper.iml" filepath="$PROJECT_DIR$/api/mapper/mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/model/model.iml" filepath="$PROJECT_DIR$/api/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/service/service.iml" filepath="$PROJECT_DIR$/api/service/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vhr.iml" filepath="$PROJECT_DIR$/vhr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api/web/web.iml" filepath="$PROJECT_DIR$/api/web/web.iml" />
+    </modules>
+  </component>
+</project>
